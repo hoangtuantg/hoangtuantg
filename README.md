@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB6Y3VqcHE0d2F3MHF5MmE2dDd3c2Fzb2Q5bjViaG5zNmhjMjdtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif" alt="Coder Working" width="400"/>
   
   # 👋 Hi, I'm Truong Tuan Hoang
-  ## 🎓 PHP Developer & More | 🚀 
+  ## 🎓 PHP Developer & More 🚀 
 </div>
 
 ---
