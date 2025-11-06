@@ -57,12 +57,12 @@ A visual representation of my achievements on GitHub!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-tu%E1%BA%A5n-ho%C3%A0ng-59aab52ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="[Your Twitter/X Link (If available)]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.topcv.vn/xem-cv/W1cOBwkAUAFUAVBcVApUUFIFBQZTUAMOBAFfAA6682">
+    <img src="https://img.shields.io/badge/TopCV-darkgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="TopCV"/>
   </a>
 </div>
