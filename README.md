@@ -2,7 +2,7 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB6Y3VqcHE0d2F3MHF5MmE2dDd3c2Fzb2Q5bjViaG5zNmhjMjdtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif" width="380"/>
 
-# 👋 Hi, I'm Truong Tuan Hoang
+# 👋 Hi, I'm Hoang Truong Tuan
 
 ### 💼 Business Analyst | Laravel Backend Developer
 
@@ -14,7 +14,7 @@
 
 # 💡 About Me
 
-I'm **Truong Tuan Hoang**, an Information Technology graduate from **Vietnam National University of Agriculture**.
+I'm **Hoang Truong Tuan**,
 
 I am passionate about transforming business requirements into practical software solutions. My experience spans both **Business Analysis** and **Backend Development**, allowing me to communicate effectively with stakeholders while also implementing robust backend systems.
 
