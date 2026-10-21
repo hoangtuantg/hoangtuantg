@@ -1,197 +1,79 @@
+# Hi, I'm Hoang Truong Tuan 👋
+
+### Business Analyst 
+
+*Turning business needs into clear requirements and practical software solutions.*
+
+---
+
+## 👨‍💻 About Me
+
+I'm passionate about analyzing business problems, understanding user needs, and translating requirements into well-defined software solutions.
+
+My focus is on bridging the gap between **business stakeholders and technical teams** through structured analysis, clear documentation, and effective collaboration.
+
+- 📋 **Requirement Analysis** — Gathering, analyzing, and validating business requirements.
+- 📝 **Documentation** — Preparing BRD, SRS, User Stories, and Use Cases.
+- 🔄 **Process Modeling** — Designing workflows, business processes, and system flows.
+- 🧪 **Quality Assurance** — Preparing UAT scenarios, validating business flows, and supporting product demonstrations.
+- 🤝 **Stakeholder Collaboration** — Clarifying requirements and aligning business expectations with technical implementation.
+
+## 🎯 Core Competencies
+
+| Business Analysis | System Analysis | Testing & Delivery |
+|:--|:--|:--|
+| Requirement Gathering | Functional Specifications | UAT Planning |
+| Business Process Analysis | Use Case Modeling | Test Scenarios |
+| Gap Analysis | Workflow Design | Acceptance Testing |
+| User Stories & SRS | UML & System Flows | Product Demonstration |
+
+## 🛠️ Tools & Technologies
+
+**Business Analysis & Design**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white)
+
+**Technical Knowledge**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📊 GitHub Overview
+
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB6Y3VqcHE0d2F3MHF5MmE2dDd3c2Fzb2Q5bjViaG5zNmhjMjdtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif" width="380"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangtuantg&show_icons=true&hide_border=true&theme=default" alt="GitHub Statistics" />
 
-# 👋 Hi, I'm Hoang Truong Tuan
-
-### 💼 Business Analyst | Laravel Backend Developer
-
-*"Bridging business requirements and technical solutions."*
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuantg&layout=compact&hide_border=true&theme=default" alt="Most Used Languages" />
 
 </div>
 
----
+## 🌱 Currently Exploring
 
-# 💡 About Me
+- Advanced Business Analysis & Requirement Engineering
+- System Design & Software Architecture
+- API Integration & System Workflows
+- Improving UAT Strategies and Requirement Validation
 
-I'm **Hoang Truong Tuan**,
+## 🤝 Connect With Me
 
-I am passionate about transforming business requirements into practical software solutions. My experience spans both **Business Analysis** and **Backend Development**, allowing me to communicate effectively with stakeholders while also implementing robust backend systems.
+I'm open to connecting with professionals working in Business Analysis, System Analysis, and Software Product Development.
 
-Currently, I participate in:
-
-- 📑 Requirement Gathering & Business Analysis
-- 📄 Software Requirement Specification (SRS)
-- 🔄 Business Process & Workflow Design
-- 🧪 UAT Planning & Product Testing
-- 🎯 Product Demonstration
-- ⚙️ Laravel Backend Development
-- 🔌 RESTful API Development
-
----
-
-## 🚀 Current Focus
-
-- 💼 Working as **Business Analyst & Laravel Backend Developer**
-- 🌱 Learning **Vue.js**, **System Design**, and **Software Architecture**
-- 🎯 Goal: Become a **Technical Business Analyst / Solution Analyst** with strong backend development expertise.
-- 💬 Interested in Enterprise Software, Digital Transformation, and Business Process Optimization.
-- 📫 Contact: **truongtuanhung09@gmail.com**
-
----
-
-# 📊 Business Analysis Skills
-
-<div align="center">
-
-| Requirement | Analysis | Design | Testing |
-|:------------|:---------|:-------|:--------|
-| Requirement Gathering | Business Process Analysis | UML / Workflow | UAT |
-| Stakeholder Communication | Functional Analysis | Use Case | Test Scenario |
-| User Story | Gap Analysis | Wireframe Review | Product Demo |
-| SRS Documentation | System Analysis | BPMN | Acceptance Testing |
-
-</div>
-
----
-
-# 💻 Technical Skills
-
-### Backend
-
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-# 🚀 What I'm Working On
-
-- 📑 Business Requirement Analysis
-- 📄 Writing Software Requirement Specification (SRS)
-- 🔄 Designing Business Workflows
-- 🧪 UAT Planning & Execution
-- 🎯 Product Demonstration
-- ⚙️ Laravel Backend Development
-- 🔌 RESTful API Development
-- 🗄️ Database Design & Optimization
-
----
-
-# 📈 GitHub Languages
-
-<div align="center">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhzYm80bDJvOXJkbzZtOHZhMG9ybzJvdTZld2JndWY5OXAwYm50MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="380"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuantg&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hoangtuantg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtuantg&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hoangtuantg&theme=algolia&no-frame=true&no-bg=true"/>
-
-</div>
-
----
-
-# 📂 Featured Areas
-
-✔ Business Analysis
-
-✔ Software Requirement Specification (SRS)
-
-✔ UML & Business Workflow
-
-✔ UAT Planning
-
-✔ Product Demonstration
-
-✔ Laravel Backend Development
-
-✔ RESTful API
-
-✔ Database Design
-
----
-
-# 🌱 Currently Learning
-
-- Vue.js
-- Clean Architecture
-- Domain Driven Design (DDD)
-- System Design
-- Solution Architecture
-- AI-assisted Software Development
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-tu%E1%BA%A5n-ho%C3%A0ng-59aab52ba/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.topcv.vn/xem-cv/W1cOBwkAUAFUAVBcVApUUFIFBQZTUAMOBAFfAA6682">
-<img src="https://img.shields.io/badge/TopCV-006400?style=for-the-badge"/>
-</a>
-
-<a href="mailto:truongtuanhung09@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-tu%E1%BA%A5n-ho%C3%A0ng-59aab52ba/)
+[![TopCV](https://img.shields.io/badge/TopCV-View_Resume-006400?style=flat-square)](https://www.topcv.vn/xem-cv/W1cOBwkAUAFUAVBcVApUUFIFBQZTUAMOBAFfAA6682)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:truongtuanhung09@gmail.com)
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Technology solves problems. Business Analysis ensures we solve the right problems."*
+*“Great software starts with understanding the right problem.”*
 
 </div>
